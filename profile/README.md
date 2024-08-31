@@ -12,7 +12,7 @@
 </div> -->
 
 
-<style>
+<!-- <style>
   .text-bold {
     font-size: 16px;
     font-weight: bold;
@@ -21,15 +21,15 @@
     font-size: 14px;
     font-weight: normal;
   }
-</style>
+</style> -->
 
 
 <table>
   <tr>
-    <td width="50%" class="text-bold">
+    <td width="50%" style="font-size: 16px; font-weight: bold;">
       <!-- <p> des <code>&lt;td&gt;</code> label </p> -->
       <p>3D Topia</p>
-      <p class="text-normal"> Welcome to the 3D Topia homepage. 3D Topia is mainly developed by Shanghai AI Laboratory. We keep working in the field of versatile 3D content generation, open-sourcing the datasets, the models, and benchmark suites. </p>
+      <p style="font-size: 14px; font-weight: normal;"> Welcome to the 3D Topia homepage. 3D Topia is mainly developed by Shanghai AI Laboratory. We keep working in the field of versatile 3D content generation, open-sourcing the datasets, the models, and benchmark suites. </p>
       <img src="https://img.shields.io/github/stars/3dtopia" alt="GitHub User's stars">
     </td>
     <td width="50%">
