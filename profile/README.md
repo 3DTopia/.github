@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 
 <p align="center">
     <picture>
@@ -9,20 +9,48 @@
 
 ![GitHub User's stars](https://img.shields.io/github/stars/3dtopia)
 
-</div>
+</div> -->
+
+
+<style>
+  .text-bold {
+    font-size: 16px;
+    font-weight: bold;
+  }
+  .text-normal {
+    font-size: 14px;
+    font-weight: normal;
+  }
+</style>
 
 
 <table>
   <tr>
-    <td>
-      <p> des <code>&lt;td&gt;</code> label </p>
+    <td width="50%" class="text-bold">
+      <!-- <p> des <code>&lt;td&gt;</code> label </p> -->
       <p>3D Topia</p>
+      <p class="text-normal"> Welcome to the 3D Topia homepage. 3D Topia is mainly developed by Shanghai AI Laboratory. We keep working in the field of versatile 3D content generation, open-sourcing the datasets, the models, and benchmark suites. </p>
+      <img src="https://img.shields.io/github/stars/3dtopia" alt="GitHub User's stars">
     </td>
-    <td>
+    <td width="50%">
       <img src="https://raw.githubusercontent.com/3DTopia/3DTopia/main/assets/3dtopia.jpeg" width="350">
     </td>
   </tr>
 </table>
+
+
+## 🚀 Updates
+
+
+## 🍿 Datasets
+
+
+## 🎁 Models
+
+
+## 🏔️ Bench
+
+
 
 
 <!-- ## Hi there 👋 -->
