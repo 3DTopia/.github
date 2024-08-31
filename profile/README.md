@@ -28,7 +28,7 @@
   <tr>
     <td width="50%" style="font-size: 16px; font-weight: bold;">
       <!-- <p> des <code>&lt;td&gt;</code> label </p> -->
-      <p style="font-size: 16px; font-weight: bold;">3D Topia</p>
+      <p style="font-size: 16px; font-weight: bold;"><b>3D Topia</b></p>
       <p style="font-size: 14px; font-weight: normal;"> Welcome to the 3D Topia homepage. 3D Topia is mainly developed by Shanghai AI Laboratory. We keep working in the field of versatile 3D content generation, open-sourcing the datasets, the models, and benchmark suites. </p>
       <img src="https://img.shields.io/github/stars/3dtopia" alt="GitHub User's stars">
     </td>
