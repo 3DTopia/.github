@@ -46,7 +46,8 @@
 
 
 ## 🎁 Models
-
+- 🎉 **[new]** [3DTopia-XL](https://github.com/3DTopia/3DTopia-XL): Comming soon...
+- [LGM](https://github.com/3DTopia/LGM): Large Multi-View Gaussian Model for high-resolution 3D content creation from text prompts or images.
 
 ## 🏔️ Bench
 
