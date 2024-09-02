@@ -40,8 +40,8 @@
 
 
 ## 🚀 Updates
-
-
+🔥 **3DTopia-XL**
+- [09/2024] We release [3DTopia-XL](https://github.com/3DTopia/3DTopia-XL), a high-quality 3D generative model with **1 billion parameters,** which supports the generation of 3D assets with high-resolution geometry, texture, and material into GLB format.
 ## 🍿 Datasets
 
 
