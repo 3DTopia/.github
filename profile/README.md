@@ -49,15 +49,16 @@
 
 ## 🍿 Datasets
 - [Objaverse Caption](https://github.com/3DTopia/3DTopia/releases) from 3DTopia.
+- [OmniObject3D](https://omniobject3d.github.io/) for real-scanned objects.
 
 ## 🎁 Models
 - 🎉 **[new]** [3DTopia-XL](https://github.com/3DTopia/3DTopia-XL): Comming soon...
 - [LGM](https://github.com/3DTopia/LGM): Large Multi-View Gaussian Model for high-resolution 3D content creation from text prompts or images.
 - [3DTopia](https://github.com/3DTopia/3DTopia): Large Text-to-3D Generation Model with Hybrid Diffusion Priors
-
+ 
 ## 🏔️ Bench
-
-
+- [3DGen-Arena](https://huggingface.co/spaces/ZhangYuhan/3DGen-Arena): Human preference for text-to-3D and image-to-3D generative models.
+- [GPTEval3D](https://gpteval3d.github.io/): GPT-4V(ision) is a human-aligned evaluator for text-to-3D generation.
 
 
 <!-- ## Hi there 👋 -->
