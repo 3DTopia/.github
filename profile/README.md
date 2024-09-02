@@ -42,12 +42,18 @@
 ## 🚀 Updates
 🔥 **3DTopia-XL**
 - [09/2024] We release [3DTopia-XL](https://github.com/3DTopia/3DTopia-XL), a high-quality 3D generative model with **1 billion parameters,** which supports the generation of 3D assets with high-resolution geometry, texture, and material into GLB format.
-## 🍿 Datasets
 
+🔥 **3DTopia**
+- [03/2024] [Technical report](https://arxiv.org/pdf/2403.02234.pdf) of 3DTopia is released.
+- [01/2024] We release [3DTopia](https://github.com/3DTopia/3DTopia), a two-stage text-to-3D generation model that uses hybrid diffusion priors for high quality 3D assets generation.
+
+## 🍿 Datasets
+- [Objaverse Caption](https://github.com/3DTopia/3DTopia/releases) from 3DTopia.
 
 ## 🎁 Models
 - 🎉 **[new]** [3DTopia-XL](https://github.com/3DTopia/3DTopia-XL): Comming soon...
 - [LGM](https://github.com/3DTopia/LGM): Large Multi-View Gaussian Model for high-resolution 3D content creation from text prompts or images.
+- [3DTopia](https://github.com/3DTopia/3DTopia): Large Text-to-3D Generation Model with Hybrid Diffusion Priors
 
 ## 🏔️ Bench
 
